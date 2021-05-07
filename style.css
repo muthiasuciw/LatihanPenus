@@ -1,0 +1,18 @@
+.pink {
+    background-color: rgb(243, 145, 174);
+  }
+
+p {
+    color: rgb(231, 91, 110);
+    font-family: cursive;
+}
+
+.tentang {
+    color: rgb(0, 0, 0);
+    font-family: inherit ;
+}
+
+.judul1 {
+    color: #000;
+    font-family: cursive;
+}
